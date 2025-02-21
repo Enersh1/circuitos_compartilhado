@@ -12,10 +12,10 @@
 - Subtrator
 
 # Importante:
-  Saber converter decimal para binário
-    Saber achar o negativo de um número binário com [Complemento de 2]
-      Saber somar números binários
-        A partir da soma, somar um número positivo com negativo resulta em uma subtração = [Subtrator]
+- Saber converter decimal para binário
+- Saber achar o negativo de um número binário com [Complemento de 2]
+- Saber somar números binários
+- A partir da soma, somar um número positivo com negativo resulta em uma subtração = [Subtrator]
 
 ## 📚 [Complemento de 2]
  **Conceito**
