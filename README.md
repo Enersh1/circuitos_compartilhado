@@ -42,19 +42,18 @@
 ![image](https://github.com/user-attachments/assets/ad1158f2-608e-4d7d-a3f7-de51ec8f6617)
 
 ![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow) 
-![Licença](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt_BR)
+[![Licença: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-📄 **Licenciamento**  
-Este material está licenciado sob [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt_BR). Você pode:  
-- Compartilhar o conteúdo **sem alterações**  
-- Usar para fins **não comerciais** (ex: estudo individual, aulas)  
 
-❌ **Não permitido**:  
-- Copiar trechos inteiros de respostas  
-- Modificar/adaptar imagens técnicas  
-- Usar em plataformas pagas ou com fins lucrativos  
+
+
+
+## 📜 Licenciamento
+Este material está licenciado sob [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).  
+Você pode compartilhar e adaptar o conteúdo para uso **não comercial**, desde que atribua os créditos.
+
 
 Atribuição obrigatória:  
-`Material adaptado de [SeuNome/Repositório] (GitHub)`.
+`Material adaptado de [Enersh1] (GitHub)`.
 
 
