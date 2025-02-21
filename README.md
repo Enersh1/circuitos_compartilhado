@@ -1,14 +1,5 @@
 <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
 
-# Estou criando um repositório no Github, com documentos que sejam simples e fáceis de entender, para ajudar estudantes de "Ciência da Computação" na disciplina de "Circuitos Lógicos e Digitais"
-
-Irei utilizar MarkDown em arquivo de texto no Github para organizar as explicações
-com resuminho de 1 ou 2 linhas que seja sobre cada parte
-
--> Crie um protótipo da estrutura desses arquivos README, com exemplos de uso do Markdown para organizar as coisas
----
-Aqui está uma estrutura proposta para seu repositório usando Markdown, com exemplos de organização para a disciplina de Circuitos Lógicos e Digitais:
-
 # Circuitos Lógicos e Digitais 🎛️
 
 *Repositório de estudos para a disciplina de Ciência da Computação*
