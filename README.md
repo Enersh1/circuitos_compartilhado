@@ -42,7 +42,7 @@
 ![image](https://github.com/user-attachments/assets/ad1158f2-608e-4d7d-a3f7-de51ec8f6617)
 
 ![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow) 
-![Licença][CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt_BR)
+![Licença](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt_BR)
 
 📄 **Licenciamento**  
 Este material está licenciado sob [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt_BR). Você pode:  
