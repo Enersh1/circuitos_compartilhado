@@ -1,6 +1,6 @@
 # Circuitos Lógicos e Digitais 🎛️
 
-*Repositório de estudos para a disciplina, por alunos do 2° périodo de Ciência da Computação*
+*Repositório de estudos para a disciplina, por alunos do 2° periodo de Ciência da Computação*
 
 # Disclaimer: 
 - Todo os conteúdos presentes devem ser revisados e são passíveis de conter erros
