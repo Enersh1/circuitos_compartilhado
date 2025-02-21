@@ -4,7 +4,7 @@
 
 *Repositório de estudos para a disciplina de Ciência da Computação*
 
-```markdown
+
 ## 📚 Tópicos Principais
 - **Álgebra Booleana**  
   Fundamentos matemáticos para análise de circuitos digitais [^1][^6]
@@ -12,12 +12,12 @@
   AND, OR, NOT, NAND, NOR, XOR e XNOR - Blocos básicos de construção [^4][^9]
 - **Simplificação de Circuitos**  
   Técnicas como Mapas de Karnaugh e Álgebra Booleana [^5][^8]
-```
+
 
 
 ## 🔌 Exemplo de Porta Lógica (AND)
 
-```markdown
+
 ### Porta AND
 **Símbolo:**  
 ![AND Gate](https://example.com/and-gate.png)  
@@ -31,23 +31,23 @@
 | 1         | 1         | 1     |
 
 **Expressão Booleana:**  
-```
+
 
 Q = A \cdot B
 
-```
+
 
 **Aplicação Prática:**  
 Circuito detector de presença usando dois sensores [^9][^4]
-```
+
 
 
 ## 🛠️ Exemplo de Circuito Combinacional
 
-```markdown
+
 ### Meio Somador
 **Diagrama:**  
-```
+
 
 A ----|        |
 |  XOR   |---- Soma
@@ -57,15 +57,15 @@ A ----|        |
 |  AND   |---- Carry
 B ----|________|
 
-```
+
 
 **Equações:**  
-```
+
 
 S = A \oplus B
 C = A \cdot B
 
-```
+
 
 **Implementação Física:**  
 Lista de componentes:
@@ -73,7 +73,7 @@ Lista de componentes:
 - CI 7486 (XOR)
 - Protoboard
 - Fios jumpers [^4][^5]
-```
+
 
 
 ## 📂 Estrutura do Repositório
@@ -90,16 +90,16 @@ Lista de componentes:
 
 ## 💡 Dicas de Estudo
 
-```markdown
+
 - Use o [Logisim](https://www.cburch.com/logisim/) para simulações
 - Revise a folha de dados (datasheet) dos CIs antes de montar circuitos [^4]
 - Pratique a conversão entre tabela verdade e expressão booleana [^8]
-```
+
 
 
 ## 🧩 Exemplo de Exercício
 
-```markdown
+
 **Problema:**  
 Implemente a função `F = (A + B') \cdot (C \oplus D)` usando portas lógicas básicas
 
@@ -108,7 +108,7 @@ Implemente a função `F = (A + B') \cdot (C \oplus D)` usando portas lógicas b
 2. Crie a porta OR com A e B'
 3. Faça a porta XOR com C e D
 4. Conecte as saídas das etapas 2 e 3 em uma porta AND [^5][^8]
-```
+
 
 Esta estrutura usa recursos do Markdown como:
 
@@ -122,10 +122,10 @@ Esta estrutura usa recursos do Markdown como:
 
 Para badges e status do projeto, você pode adicionar no topo:
 
-```markdown
+
 ![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow) 
 ![Licença](https://img.shields.io/badge/Licença-MIT-blue)
-```
+
 
 <div style="text-align: center">⁂</div>
 
